@@ -1,0 +1,43 @@
+_repo: From-a-Swedish-Homestead_44630
+_version: 0.1.0
+alternative_title: Drottningar i Kungahälla. English
+contributor:
+  translator:
+    agent_name: Brochner, Jessie
+    gutenberg_agent_id: '42844'
+    url: http://www.gutenberg.org/2009/agents/42844
+covers:
+- cover_type: archival
+  image_path: 44630-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Lagerlöf, Selma
+    aliases:
+    - Lagerlöf, Selma Ottiliana Lovisa
+    - Lagerlof, Selma
+    - Lagerloef, Selma
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '1717'
+    url: http://www.gutenberg.org/2009/agents/1717
+    wikipedia: http://en.wikipedia.org/wiki/Selma_Lagerlöf
+description: ''
+gutenberg_issued: '2014-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44630'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Swedish -- Translations into English'
+- !lcsh 'Sweden -- Social life and customs -- Fiction'
+- !lcc 'PT'
+tableOfContents: 'The story of a country house -- Queens at Kungahälla: on the site
+  of the great Kungahälla. The forest queen. Sigrid Storräde. Astrid -- Old Agnete
+  -- The fisherman''s ring -- Santa Caterina of Siena -- The empress''s money-chest
+  -- The peace of God -- A story from Halstanäs -- The inscription on the grave --
+  The brothers.'
+title: From a Swedish Homestead
+url: http://www.gutenberg.org/ebooks/44630
